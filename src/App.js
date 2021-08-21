@@ -18,7 +18,7 @@ const movieDB = {
   Comedy: [
     { name: "The Pets", duration: "1hr20Min| 4.5/5" },
     { name: "Toy Story", duration: "5hr30Min | 5/5" },
-    { name: "How to train your Dragon", duration: "3Hr20Mon | 4.2/5" }
+    { name: "How to train your Dragon", duration: "3Hr20Min | 4.2/5" }
   ]
 };
 
